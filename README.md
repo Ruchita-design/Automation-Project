@@ -1,2 +1,2 @@
 # Automation-Project
-Automation Project on Orange HRM
+Automation Project on Orange HRM using TestNg
